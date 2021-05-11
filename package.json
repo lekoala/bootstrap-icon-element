@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-icon-element",
+  "version": "1.0.0",
+  "description": "A custom element to call Bootstrap Icons",
+  "main": "bootstrap-icon-element",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lekoala/bootstrap-icon-element"
+  },
+  "keywords": [
+    "DOM",
+    "icons",
+    "custom",
+    "element",
+    "component",
+    "bootstrap",
+    "bootstrap5",
+    "es6"
+  ],
+  "author": "LeKoala",
+  "license": "MIT"
+}
