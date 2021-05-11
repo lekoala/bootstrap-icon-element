@@ -61,4 +61,4 @@ before the component is loaded.
 
 ## Demo
 
-https://codepen.io/lekoalabe/pen/ExWYEqx
+https://codepen.io/lekoalabe/pen/WNpQPBm
