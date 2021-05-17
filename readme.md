@@ -25,7 +25,7 @@ You need to include the following css:
 
 ```css
 bs-i {
-    --size: 16px;
+    --size: 1em;
     display: inline-flex;
     width: var(--size);
     height: var(--size);

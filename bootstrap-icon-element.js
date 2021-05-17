@@ -31,7 +31,7 @@ class BootstrapIcon extends HTMLElement {
    * @return {Promise<String, Error>}
    */
   static getIconSvg(iconName) {
-    var iconUrl = `${BASE}/${iconName}.svg`;
+    let iconUrl = `${BASE}/${iconName}.svg`;
     if (iconUrl && CACHE[iconUrl]) {
       return CACHE[iconUrl];
     }
