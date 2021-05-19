@@ -62,3 +62,7 @@ before the component is loaded.
 ## Demo
 
 https://codepen.io/lekoalabe/pen/WNpQPBm
+
+## Need some other icon set ?
+
+Check my other custom element: https://github.com/lekoala/last-icon
